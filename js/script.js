@@ -7,3 +7,5 @@ var number = 21;
 var result = nameUser + lastaNameUser + colorUser + number;
 
 document.getElementById('userPassword').innerHTML = result;
+
+console.log(result);

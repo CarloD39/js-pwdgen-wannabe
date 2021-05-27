@@ -1,0 +1,22 @@
+.background-black{
+    background-color: rgb(26, 25, 25);
+    height: 100vh;
+}
+
+
+.box1{
+    width: 500px;
+    height: 200px;
+    background-color: coral;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 2px;
+}
+
+#titleAutoGen{
+    font-size: 35px;
+}
+
+.my-password-1{
+    background-color: chocolate;
+}
